@@ -1,0 +1,2 @@
+P:\MediaPlayer\MediaPlayerProject\Plugins\Quest\Intermediate\Build\Win64\UE4Editor\Development\Quest\Definitions.Quest.h
+P:\MediaPlayer\MediaPlayerProject\Plugins\Quest\Source\Quest\Public\Quest.h

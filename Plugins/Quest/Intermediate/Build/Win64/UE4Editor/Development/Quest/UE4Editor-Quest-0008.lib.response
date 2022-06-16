@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Quest-0008.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"P:\MediaPlayer\MediaPlayerProject\Intermediate\Build\Win64\MediaPlayerProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"P:\MediaPlayer\MediaPlayerProject\Plugins\Quest\Intermediate\Build\Win64\UE4Editor\Development\Quest\Module.Quest.cpp.obj"
+"P:\MediaPlayer\MediaPlayerProject\Plugins\Quest\Intermediate\Build\Win64\UE4Editor\Development\Quest\Module.Quest.gen.cpp.obj"
+"P:\MediaPlayer\MediaPlayerProject\Plugins\Quest\Intermediate\Build\Win64\UE4Editor\Development\Quest\Default.rc2.res"
+/OUT:"P:\MediaPlayer\MediaPlayerProject\Plugins\Quest\Intermediate\Build\Win64\UE4Editor\Development\Quest\UE4Editor-Quest-0008.lib"

@@ -1,0 +1,35 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.Quest.cpp.obj": [
+			"CurrentObjectives.cpp.obj",
+			"InteractionComponent.cpp.obj",
+			"Objective.cpp.obj",
+			"ObjectiveWidget.cpp.obj",
+			"QuestClass.cpp.obj",
+			"QuestDescription.cpp.obj",
+			"QuestDialog.cpp.obj",
+			"QuestListComponent.cpp.obj",
+			"QuestListEntry.cpp.obj",
+			"QuestSystem.cpp.obj",
+			"QuestSystemCharacter.cpp.obj"
+		],
+		"Module.Quest.gen.cpp.obj": [
+			"CurrentObjectives.gen.cpp.obj",
+			"InteractableActor.gen.cpp.obj",
+			"InteractableObject.gen.cpp.obj",
+			"InteractionComponent.gen.cpp.obj",
+			"LocationMarker.gen.cpp.obj",
+			"LocationMarkerActor.gen.cpp.obj",
+			"Objective.gen.cpp.obj",
+			"ObjectiveWidget.gen.cpp.obj",
+			"Quest.init.gen.cpp.obj",
+			"QuestClass.gen.cpp.obj",
+			"QuestDescription.gen.cpp.obj",
+			"QuestDialog.gen.cpp.obj",
+			"QuestListComponent.gen.cpp.obj",
+			"QuestListEntry.gen.cpp.obj",
+			"QuestSystemCharacter.gen.cpp.obj"
+		]
+	}
+}
